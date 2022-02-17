@@ -1,6 +1,6 @@
-# Livro de receitas :man_cook:
+# Livro de receitas :cookie:
 
-Ola ! Bem vindo ao meu livro de receitas :call_me_hand:
+Ola ! :raising_hand_man:
 
-- Strogonoff de carne :cow:
-- 
+Bem vindo ao meu livro de receitas :book:
+
